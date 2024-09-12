@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**BrenoSeixas/BrenoSeixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando C# | .NET
+- 📫 Contate-me no email olegarioseixasb@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/BrenoSeixas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BrenoSeixas" alt="Anurag's GitHub stats" style="height: 200px;">
+  </a>
+  <a href="https://github.com/BrenoSeixas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSeixas&layout=compact" alt="Top Langs" style="height: 200px;">
+  </a>
+</div>
