@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🌱 Estudando C# | .NET
+- 🌱 Estudando Javascript
 - 📫 Contate-me no email olegarioseixasb@gmail.com
 
 <div style="display: flex; justify-content: space-between;">
