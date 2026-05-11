@@ -2,7 +2,7 @@
 
 **Desenvolvedor Frontend e Unity/C#**
 
-Me chamo Breno Olegário Seixas, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente estou no 5º período de Ciência da Computação no Centro Universitário Carioca (Unicarioca). Desde março de 2024 estou fazendo Iniciação Científica na minha própria faculdade, trabalhando com desenvolvimento de jogos com  Unity/C#, sites com HTML, CSS e Javacript, UX/UI usando o Figma e versionamento de código com Git e Github.
+Me chamo Breno Olegário Seixas, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente estou no 5º período de Ciência da Computação no Centro Universitário Carioca (Unicarioca). Desde março de 2024 estou fazendo Iniciação Científica na minha própria faculdade, trabalhando com desenvolvimento de jogos com  Unity/C#, sites com HTML, CSS e Javacript, UX/UI usando o Figma e versionamento de código com Git e Github.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/brenoseixas/" target="_blank">
